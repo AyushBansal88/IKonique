@@ -1,1 +1,1 @@
-# IKonique
+# IKonique design template
